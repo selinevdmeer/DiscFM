@@ -1,75 +1,20 @@
-# Nuxt Minimal Starter
+# DiscFM
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+DiscFM is an application for music lovers and record collectors. It helps users compare their most-listened-to albums with the albums in their Discogs library.
 
-## Setup
+## Features
 
-Make sure to install dependencies:
+* **Album Comparison** — Compare your most-listened-to albums with the albums in your Discogs library.
+* **Wantlist Integration** — Add albums you've listened to directly to your Discogs wantlist.
 
-```bash
-# npm
-npm install
+## About the Project
 
-# pnpm
-pnpm install
+DiscFM brings your listening habits and record collection together in one place. It helps you discover which of your favorite albums are already in your Discogs library and which ones might still be missing.
 
-# yarn
-yarn install
+Found an album you want to own? Add it directly to your Discogs wantlist and keep track of albums you'd like to find and collect.
 
-# bun
-bun install
-```
+## Built For
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+* Music lovers
+* Vinyl collectors
+* Discogs users who want to connect their listening habits with their record collection
